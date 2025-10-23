@@ -1,6 +1,0 @@
--- Select view workshop.<usern>.business.trips_weather
--- Lakukan observasi pada job tersebut
--- Perhatikan sumber data yang digunakan oleh Dremio untuk menghasilkan query tersebut
--- Terapkan raw reflection pada sumber data yang terbesar
--- Coba jalankan kembali query yang sama
--- Lihat perbedaannya
