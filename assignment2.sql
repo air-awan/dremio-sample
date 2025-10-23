@@ -24,6 +24,6 @@ CREATE VIEW workshop.<usern>.preparation.dept_emp AS SELECT * FROM "dremio-oss".
 
 -- Tugas 8: Buat view di folder application dengan nama "tugas8" yang berisi jawaban pertanyaan berikut: Tanggal lahir dan salary dari manager Marketing saat ini?
 
--- Tugas 9: Buat user <analystn>, dengan n sesuai urutan user (misal user1=analyst1)
+-- Tugas 9: Buat user <auditn>, dengan n sesuai urutan user (misal user1=audit1)
 
--- Tugas 10: Berikan privilege kepada analyst1 agar dapat mengakses folder application dan melihat isi view yang ada di dalamnya
+-- Tugas 10: Berikan privilege kepada audit1 agar dapat mengakses folder application dan melihat isi view yang ada di dalamnya
