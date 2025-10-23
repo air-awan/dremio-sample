@@ -5,6 +5,9 @@
 - Maven 3.5+ (sudo apt install maven)
 - Git (sudo apt install git)
 
+- Compiled jar file: https://simpan.arupa.id/s/sample_jar
+
+  
 ## Steps:
 - Clone repository https://github.com/dremio-hub/arrow-flight-client-examples
 (git clone https://github.com/dremio-hub/arrow-flight-client-examples)
